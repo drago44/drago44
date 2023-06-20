@@ -7,8 +7,6 @@
 
 I'm [Oleksand](https://github.com/drago44), a passionate developer and explorer of the digital realm. Welcome to my GitHub profile! :zany_face:
 
-___
-
 <div align="center">
 
 ## About Me :innocent: 
@@ -31,8 +29,6 @@ ___
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drago44&theme=solarized_dark)
 
 </div>
-
-___
 
 <div align="center">
 
