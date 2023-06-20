@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hey there! 👋
-## :ukraine: 
+#   :ukraine:  Hey there! 👋
 
 
 I'm [Oleksand](https://github.com/drago44), a passionate developer and explorer of the digital realm. Welcome to my GitHub profile! :zany_face:
@@ -13,7 +12,7 @@ I'm [Oleksand](https://github.com/drago44), a passionate developer and explorer 
 
 > I love diving into the depths of programming and technology, constantly seeking new challenges and opportunities to grow. My primary areas of interest include:
 
-- HTML/SCSS/JavaScript/Typescript
+... HTML/SCSS/JavaScript/Typescript
 - **Frontend**: Vue/React/Angular
 - **Backend**: Node/Fastify/Express
 - **Database**: MongoDB
