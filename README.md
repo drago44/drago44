@@ -1,16 +1,46 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**drago44/drago44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! 👋
+## :ukraine: 
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm [Oleksand](https://github.com/drago44), a passionate developer and explorer of the digital realm. Welcome to my GitHub profile! :zany_face:
+
+___
+
+<div align="center">
+
+## About Me :innocent: 
+
+</div>
+
+
+> I love diving into the depths of programming and technology, constantly seeking new challenges and opportunities to grow. My primary areas of interest include:
+
+- HTML/SCSS/JavaScript/Typescript
+- **Frontend**: Vue/React/Angular
+- **Backend**: Node/Fastify/Express
+- **Database**: MongoDB
+- **Cloud**: Firebase
+
+> I believe in the power of open source and collaboration. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions.
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drago44&theme=solarized_dark)
+
+</div>
+
+___
+
+<div align="center">
+
+## Contact :satellite:
+
+</div>
+
+
+Follow me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%87%BA%F0%9F%87%A6-oleksandr-kucherenko-960186227/)
+
+Looking forward to connecting with fellow developers and creating amazing things together. Happy coding! 🚀
