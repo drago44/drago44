@@ -34,7 +34,7 @@ I'm [Oleksand](https://github.com/drago44), a passionate developer and explorer 
 
 
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%87%BA%F0%9F%87%A6-oleksandr-kucherenko-960186227/)
+Follow me on [LinkedIn](https://www.linkedin.com/in/oleksandr-kucherenko-960186227/)
 
 Looking forward to connecting with fellow developers and creating amazing things together. Happy coding! 🚀
 
